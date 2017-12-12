@@ -35,6 +35,7 @@ namespace Products.Models
         public float UnitPrice { get; set; }
         
         public virtual Category associatedCategory { get; set; }
+        //Test
 
     }
 }
